@@ -1,0 +1,7 @@
+C:\Users\shef\source\repos\igraNaKarte-Antonio Burić\igraNaKarte-Antonio Burić\obj\Debug\igraNaKarte-Antonio Burić.csproj.AssemblyReference.cache
+C:\Users\shef\source\repos\igraNaKarte-Antonio Burić\igraNaKarte-Antonio Burić\obj\Debug\igraNaKarte-Antonio Burić.csproj.CoreCompileInputs.cache
+C:\Users\shef\source\repos\igraNaKarte-Antonio Burić\igraNaKarte-Antonio Burić\bin\Debug\igraNaKarte-Antonio Burić.exe.config
+C:\Users\shef\source\repos\igraNaKarte-Antonio Burić\igraNaKarte-Antonio Burić\bin\Debug\igraNaKarte-Antonio Burić.exe
+C:\Users\shef\source\repos\igraNaKarte-Antonio Burić\igraNaKarte-Antonio Burić\bin\Debug\igraNaKarte-Antonio Burić.pdb
+C:\Users\shef\source\repos\igraNaKarte-Antonio Burić\igraNaKarte-Antonio Burić\obj\Debug\igraNaKarte-Antonio Burić.exe
+C:\Users\shef\source\repos\igraNaKarte-Antonio Burić\igraNaKarte-Antonio Burić\obj\Debug\igraNaKarte-Antonio Burić.pdb
